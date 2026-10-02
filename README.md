@@ -239,7 +239,7 @@ kubectl apply -k kubernetes-sample-apps/bookinfo-example/kustomize
 ### Run Baseline Test
 
 ```
-while true; do curl -I http://localhost:60728; sleep 1; done
+while true; do curl -I http://localhost:50768; sleep 1; done
 ```
 
 ```bash
