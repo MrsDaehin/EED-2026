@@ -1,6 +1,6 @@
-# System Architecture: DevOpsCon Berlin 2026
+# System Architecture: EDD 2026
 
-This document details the architectural layout for the DevOpsCon Berlin 2026 demonstration environment. The system models a resilient microservices application subjected to automated performance testing and deliberate fault injection.
+This document details the architectural layout for the EDD 2026 demonstration environment. The system models a resilient microservices application subjected to automated performance testing and deliberate fault injection.
 
 ---
 

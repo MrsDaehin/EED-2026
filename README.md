@@ -2,7 +2,7 @@
 
 > "Treat Failure as a Feature. Hope is not an strategy"
 
-Welcome to the companion repository for the DevOpsCon Berlin 2026 session.
+Welcome to the companion repository for the Extremadura Digital Day 2026 session.
 
 Modern cloud-native systems are expected to survive failures. Pods crash. Nodes disappear. Networks become unreliable. Dependencies slow down.
 
